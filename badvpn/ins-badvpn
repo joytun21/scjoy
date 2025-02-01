@@ -4,9 +4,6 @@ REPO="https://raw.githubusercontent.com/joytun21/scjoy/main/"
 mkdir -p /usr/local/xdxl/
 wget -q -O /usr/local/xdxl/badvpn-udpgpw "${REPO}badvpn/badvpn-udpgpw"
 chmod +x /usr/local/xdxl/badvpn-udpgpw
-wget -q -O /etc/systemd/system/badvpn1.service "${REPO}badvpn/badvpn-1.service"
-wget -q -O /etc/systemd/system/badvpn2.service "${REPO}badvpn/badvpn-2.service"
-wget -q -O /etc/systemd/system/badvpn3.service "${REPO}badvpn/badvpn-3.service"
 wget -q -O /etc/systemd/system/badvpn4.service "${REPO}badvpn/badvpn-4.service"
 
 systemctl disable badvpn1
