@@ -8,6 +8,6 @@
 <font color='#D2691E'>No Share Account</font><br>
 <font color='yellow'>No Multi Login</font><br>
 <font color='blue'>◇━━━━━━━━━━━━━━━━━━━━━◇</font><br>
-<font color='white'> Thankyou For Your Order </font> <br>
-<font color='white'> AutoScript By MRCK TUNNEL </font> <br>
+<font color='white'> 𝐓𝐡𝐚𝐧𝐤𝐲𝐨𝐮 𝐅𝐨𝐫 𝐘𝐨𝐮𝐫 𝐎𝐫𝐝𝐞𝐫 </font> <br>
+<font color='white'> 𝐀𝐮𝐭𝐨𝐒𝐜𝐫𝐢𝐩𝐭 𝐁𝐲 𝐌𝐑𝐂𝐊 𝐓𝐔𝐍𝐍𝐄𝐋 </font> <br>
 <font color='blue'>◇━━━━━━━━━━━━━━━━━━━━━◇</font><br>
